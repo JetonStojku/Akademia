@@ -11,3 +11,7 @@ python manage.py help
 python manage.py createsuperuser
 python manage.py startapp accounts
 python manage.py collectstatic
+
+
+links
+https://medium.com/@ayushi21095/steps-to-deploy-python-django-web-application-on-windows-iis-server-379b2b87fcf9
